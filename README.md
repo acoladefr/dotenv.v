@@ -1,4 +1,4 @@
-# dotenv
+# dotenv.v
 A library written in the [V programming language](https://vlang.io/) used to read values from .env files
 
 ## Add as dependency
