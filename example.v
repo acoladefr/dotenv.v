@@ -1,6 +1,6 @@
 module main 
 
-import dotenv
+import acoladefr.dotenv
 
 fn main() {
 	db_user := dotenv.get("DB_USER")?
